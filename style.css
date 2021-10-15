@@ -50,10 +50,6 @@
         align-items: center;
     }
     
-    .box:hover {
-        background-color: rgb(242, 234, 250);
-    }
-    
     .info {
         font-size: 22px;
         color: white;
